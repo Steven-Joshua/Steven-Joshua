@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Steven Joshua
-- 👀 I’m interested in Cyber Security Job roles, and Data analyst roles
-- 🌱 I’m currently learning M.Sc. Data Science in St. Joseph's College
-- 💞️ I’m looking to collaborate on ...
-- 📫 contact me through - stevenjoshua162@gmail.com
+- 👀 I’m interested in Cyber Security Job roles, and Data analyst roles.
+- 🌱 I’m currently learning M.Sc. Data Science in St. Joseph's College.
+- 💞️ I’m looking to collaborate on cyber security projects.
+- 📫 Contact me through - stevenjoshua162@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Lazy people find the best solutions.
 
