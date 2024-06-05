@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven Joshua
 - 👀 I’m interested in filed of Data Science, Related to data.
 - 🌱 I’m currently learning M.Sc. Data Science in St. Joseph's College.
-- 📫 Contact me through - stevenjoshua162@gmail.com
+- 📫 Contact me through - stevenjoshua162@gmail.com, 6374949298
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Lazy people find the best solutions.
 
